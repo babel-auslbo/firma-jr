@@ -10,7 +10,7 @@ idna==2.8
 pdfminer.six==20191110
 pycparser==2.19
 pycryptodome==3.9.4
-pykcs11==1.5.5
+pykcs11==1.5.7
 pyOpenSSL==19.1.0
 requests==2.22.0
 six==1.13.0
